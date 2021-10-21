@@ -4,3 +4,6 @@ Scripts
 pyvenv.cfg
 # Vim's Swap files
 *.swp
+# Artifacts
+__pycache__
+output
