@@ -49,7 +49,7 @@ BOOTSTRAP_CSS = 'https://cdnjs.cloudflare.com/ajax/libs/bootswatch/5.1.3/darkly/
 
 # Themes
 SITESUBTITLE = 'Until it is too late.'
-SITEIMAGE = 'images/MarisaFigure.png width=240 height=240'
+SITEIMAGE = 'images/MarisaHat.png width=240 height=240'
 # DESCRIPTION = ''
 
 #THEME_CSS_OVERRIDES = ['theme/css/oldstyle.css']
