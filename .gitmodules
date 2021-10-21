@@ -1,0 +1,6 @@
+[submodule "pelican-alchemy"]
+	path = pelican-alchemy
+	url = git@github.com:nairobilug/pelican-alchemy.git
+[submodule "plugins/pelican-bootstrapify"]
+	path = plugins/pelican-bootstrapify
+	url = https://github.com/ingwinlu/pelican-bootstrapify
